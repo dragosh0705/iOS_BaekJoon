@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D58077822A56AE2C008C2D54 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D58077802A56ADDA008C2D54 /* main.swift */; };
+		D58077882A56C173008C2D54 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D58077872A56C173008C2D54 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,8 +24,10 @@
 
 /* Begin PBXFileReference section */
 		D58077652A56A526008C2D54 /* iOS_BaekJoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = iOS_BaekJoon; sourceTree = BUILT_PRODUCTS_DIR; };
-		D580777E2A56AD71008C2D54 /* solved1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = solved1.swift; sourceTree = "<group>"; };
-		D58077802A56ADDA008C2D54 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D58077802A56ADDA008C2D54 /* 11055.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11055.swift; sourceTree = "<group>"; };
+		D58077832A56B1CA008C2D54 /* 11722.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11722.swift; sourceTree = "<group>"; };
+		D58077852A56B52B008C2D54 /* 1912.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1912.swift; sourceTree = "<group>"; };
+		D58077872A56C173008C2D54 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +60,10 @@
 		D58077672A56A526008C2D54 /* iOS_BaekJoon */ = {
 			isa = PBXGroup;
 			children = (
-				D58077802A56ADDA008C2D54 /* main.swift */,
-				D580777E2A56AD71008C2D54 /* solved1.swift */,
+				D58077802A56ADDA008C2D54 /* 11055.swift */,
+				D58077832A56B1CA008C2D54 /* 11722.swift */,
+				D58077852A56B52B008C2D54 /* 1912.swift */,
+				D58077872A56C173008C2D54 /* main.swift */,
 			);
 			path = iOS_BaekJoon;
 			sourceTree = "<group>";
@@ -123,7 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D58077822A56AE2C008C2D54 /* main.swift in Sources */,
+				D58077882A56C173008C2D54 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
