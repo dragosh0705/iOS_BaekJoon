@@ -6,6 +6,3 @@
 //
 
 import Foundation
-
-print("for git test")
-
