@@ -1,4 +1,4 @@
-//
+//  test2
 //  Test.swift
 //  iOS_BaekJoon
 //
@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("for git test")
+print("Test again")
 
