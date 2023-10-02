@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D52A21222AC99DA60079878C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A21212AC99DA60079878C /* main.swift */; };
+		D52A212C2ACAAC910079878C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52A212B2ACAAC910079878C /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,7 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		D52A21212AC99DA60079878C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D52A21212AC99DA60079878C /* 10811.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10811.swift; sourceTree = "<group>"; };
+		D52A21232AC9A8460079878C /* 10813.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10813.swift; sourceTree = "<group>"; };
+		D52A21252AC9B2380079878C /* 1271.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1271.swift; sourceTree = "<group>"; };
+		D52A21272AC9D9AD0079878C /* 17216.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17216.swift; sourceTree = "<group>"; };
+		D52A21292AC9F6E50079878C /* re_17216.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = re_17216.swift; sourceTree = "<group>"; };
+		D52A212B2ACAAC910079878C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D5642CA52A5D8FC600DF5876 /* 11382.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11382.swift; sourceTree = "<group>"; };
 		D58077652A56A526008C2D54 /* iOS_BaekJoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = iOS_BaekJoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		D58077802A56ADDA008C2D54 /* 11055.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11055.swift; sourceTree = "<group>"; };
@@ -69,7 +74,12 @@
 				D58077872A56C173008C2D54 /* 2579.swift */,
 				D5F0A2052A5BC5B20009C8D3 /* 1699.swift */,
 				D5642CA52A5D8FC600DF5876 /* 11382.swift */,
-				D52A21212AC99DA60079878C /* main.swift */,
+				D52A21212AC99DA60079878C /* 10811.swift */,
+				D52A21232AC9A8460079878C /* 10813.swift */,
+				D52A21252AC9B2380079878C /* 1271.swift */,
+				D52A21272AC9D9AD0079878C /* 17216.swift */,
+				D52A21292AC9F6E50079878C /* re_17216.swift */,
+				D52A212B2ACAAC910079878C /* main.swift */,
 			);
 			path = iOS_BaekJoon;
 			sourceTree = "<group>";
@@ -133,7 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D52A21222AC99DA60079878C /* main.swift in Sources */,
+				D52A212C2ACAAC910079878C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
